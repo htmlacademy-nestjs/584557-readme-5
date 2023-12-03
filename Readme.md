@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
-* Студент: [Igor Zorin](https://up.htmlacademy.ru/nodejs-2/5/user/584557).
-* Наставник: `Неизвестно`.
+- Студент: [Igor Zorin](https://up.htmlacademy.ru/nodejs-2/5/user/584557).
+- Наставник: [Александр Сушко](https://htmlacademy.ru/profile/id281347).
 
 ---
 
