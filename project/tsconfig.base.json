@@ -17,7 +17,8 @@
     "paths": {
       "@project/shared/app/shared-types": [
         "shared/app/shared-types/src/index.ts"
-      ]
+      ],
+      "@project/shared/helpers": ["shared/helpers/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
