@@ -1,2 +1,2 @@
-export * from './lib/auth-user.interface';
-export * from './lib/user.interface';
+export * from './lib/user/auth-user.interface';
+export * from './lib/user/user.interface';
