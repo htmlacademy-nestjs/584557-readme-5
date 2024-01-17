@@ -9,7 +9,7 @@ export class BlogUserEntity implements AuthUser, Entity<string> {
   public firstName: string;
   public lastName: string;
   public avatar?: string;
-  public registartionDate: string;
+  public registartionDate: Date;
   public postsNumber: number;
   public subscribers: number;
   public passwordHash: string;
