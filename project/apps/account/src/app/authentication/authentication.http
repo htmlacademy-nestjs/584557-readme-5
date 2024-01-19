@@ -5,15 +5,16 @@ Content-Type: application/json
 {
   "email": "user@notfound.local",
   "dateBirth": "2012-02-22",
-  "firstname": "Keks",
-  "lastname": "Smith",
-  "password": "123456"
+  "firstName": "Keks",
+  "lastName": "Smith",
+  "password": "123456",
+  "avatar": "avatar.test"
 }
 
 ###
 
 # Get user by ID
-GET http://localhost:3000/api/auth/7aef6925-4fe5-4057-b5cc-cc7cf214df05 HTTP/1.1
+GET http://localhost:3000/api/auth/1dd40e5c-73f5-4c34-8117-968783eaacdc HTTP/1.1
 
 ###
 

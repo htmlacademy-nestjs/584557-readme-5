@@ -8,14 +8,20 @@ export class UserRdo {
   public avatar: string;
 
   @Expose()
-  public dateOfBirth: string;
+  public registartionDate: string;
 
   @Expose()
   public email: string;
 
   @Expose()
-  public firstname: string;
+  public firstName: string;
 
   @Expose()
-  public lastname: string;
+  public lastName: string;
+
+  @Expose()
+  public postsNumber: number;
+
+  @Expose()
+  public subscribers: number;
 }
