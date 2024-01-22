@@ -33,6 +33,7 @@ function getConfig(): ApplicationConfig {
   };
 
   validateConfig(config);
+
   return config;
 }
 
